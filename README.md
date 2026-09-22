@@ -23,6 +23,6 @@ An e-commerce sales analysis project using SQL Server and Power BI.
 ## Dashboard
 
 The Power BI dashboard provides an overview of sales performance, order activity, product performance, and sales trends.
-Dashboard(ecommerce_analysis).png
 
+![E-Commerce Sales Dashboard](Images/Dashboard(ecommerce_analysis).png)
 
